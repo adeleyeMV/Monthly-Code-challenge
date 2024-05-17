@@ -1,9 +1,4 @@
-<a href="https://github.com/ThisIsSakshi/Leetcode-Solutions-2023#gh-light-mode-only">
-  <img align="left"  src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Header" width="50" />
-</a>
-<a href="https://github.com/ThisIsSakshi/Leetcode-Solutions-2023#gh-dark-mode-only">
-  <img align="left"  src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Header" width="50" />
-</a>
+
 <h1>LeetCode Challenges</h1>
 Welcome to my LeetCode solutions repository! 🚀
 
