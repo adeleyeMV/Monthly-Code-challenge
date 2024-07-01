@@ -1,5 +1,5 @@
 
-<h1>PyCode Challenges</h1>
+# PyCode Challenges
 Welcome to the PyCode solutions repository! 🚀
 
 ## Introduction
